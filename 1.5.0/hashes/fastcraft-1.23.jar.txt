@@ -1,0 +1,2 @@
+fastcraft-1.23.jar
+db7592c51fbaa58f5f8233c9ce3eda21f5f35965b881ff282d07dc660c8c96

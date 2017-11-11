@@ -20,3 +20,5 @@ Tweet about the GoPvP screenshare tool: http://prntscr.com/h90uk3
 Code 66 (left) VS GoPvP screenshare tool (right): https://imgur.com/a/YiUdy and https://imgur.com/a/UxSWH
 
 Don't believe what Aoros says about me. Just contact me on Discord and I'll tell you the thruth because I have nothing to hide: ImRowin#8123
+
+**TheWGBbroz has nothing to do with this!**

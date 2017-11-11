@@ -1,10 +1,10 @@
 **This is written by ImRowin, not Erouax**
 
 My new screenshare tool: https://discord.gg/j9Xhh69
-No, I don't use Code 66 code. I'm not using GoPvP screenshare tool code either, even though it's my code.
 
-About Code 66:
+No, I'm not using Code 66 code. I'm not using GoPvP screenshare tool code either, even though it's my code.
 
+**About Code 66:**
 Aoros came up with the idea to make a screenshare tool. We were going to work on it, me as developer and Aoros as manager. He promised me 50% of the money we make. Now here's a list of stuff I didn't like:
 - Aoros contacted people without telling me, promising them (a percentage of the) money
 - Aoros wanted to call everything "LLC" "because it looks professional"
@@ -27,3 +27,5 @@ Code 66 (left) VS GoPvP screenshare tool (right): https://imgur.com/a/YiUdy and 
 Don't believe what Aoros says about me. Just contact me on Discord and I'll tell you the thruth because I have nothing to hide: ImRowin#8123
 
 **TheWGBbroz has nothing to do with this!**
+
+https://imgur.com/a/XbfPX

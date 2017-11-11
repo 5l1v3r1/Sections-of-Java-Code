@@ -1,3 +1,4 @@
+**This is written by ImRowin, not Erouax**
 
 My new screenshare tool: https://discord.gg/j9Xhh69
 No, I don't use Code 66 code. I'm not using GoPvP screenshare tool code either, even though it's my code.

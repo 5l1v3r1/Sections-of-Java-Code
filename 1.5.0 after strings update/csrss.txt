@@ -1,0 +1,17 @@
+\Downloads\cheatsmasher.exe
+\Downloads\Discord.exe
+\Downloads\ProcessHacker.exe
+\Downloads\Bucky Roberts 3.2.exe
+\Downloads\Gyazo.exe
+\Downloads\javaw.exe
+\Downloads\AnyDesk.exe
+\Downloads\Telegram.exe
+\Downloads\LastActivityView.exe
+\Downloads\Minecraft.exe
+\Downloads\ts3client_win64.exe
+\Downloads\jd-gui.exe
+\Downloads\Skype.exe
+\Downloads\chrome.exe
+\Downloads\explorer.exe
+\Downloads\WinRAR.exe
+\downloads\Explorer

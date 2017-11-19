@@ -1,0 +1,5 @@
+Recording Software
+obs.exe
+obs64.exe
+obs32.exe
+action.exe
